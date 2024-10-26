@@ -1,5 +1,7 @@
 # Hey, I'm Jodek
 
+Computer science student from germany.
+
 I love discovering new things related to coding and tech!
 
 Creating datapacks with love :heart: 	<sup> websites too! </sup>
